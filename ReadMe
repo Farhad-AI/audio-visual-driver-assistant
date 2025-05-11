@@ -1,5 +1,4 @@
 # This project is still growing
 
 The assistant: you can define how to help you(by sound, by vision, or both)
-
 then it only needs to be call by: assistant.help()
