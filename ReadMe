@@ -4,5 +4,5 @@ The assistant: you can define how to help you(by sound, by vision, or both)
 then it only needs to be call by: assistant.help()
 
 The analyzer: if analyzes the output of the model based on the driver setting and favorites  (ex: traffic light , speed limit sign , ...)
-input: from the model
-output: to the assistant
+          input: from the model
+          output: to the assistant
